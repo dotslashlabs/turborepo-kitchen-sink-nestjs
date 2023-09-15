@@ -6,7 +6,8 @@ Replaces [Express](https://expressjs.com/) with [NestJS](https://docs.nestjs.com
 
 ```sh
 git clone git@github.com:dotslashlabs/turborepo-kitchen-sink-nestjs.git
-
+npm install
+npm run dev
 ```
 
 ## What's inside?
